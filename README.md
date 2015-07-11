@@ -2,7 +2,7 @@
 To use these scripts you will need run sudo pip install pyVmomi
 ###### snapshot-vm.py
 This script is will create, remove, or revert a snapshot.
-`
+``
 user@host:~/vmware-scripts$ ./snapshot-vm.py -h
 Usage: snapshot-vm.py -h
 
@@ -21,4 +21,4 @@ Options:
   -d DESCRIPTION, --description=DESCRIPTION
                         -d description
 user@host:~/vmware-scripts$ nano README.md
-`
+``
