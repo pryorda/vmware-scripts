@@ -1,4 +1,4 @@
-# vmware-scripts
+# VMWare Snapshot Script
 To use these scripts you will need run sudo pip install pyVmomi
 ###### snapshot-vm.py
 This script is will create, remove, or revert a snapshot.
